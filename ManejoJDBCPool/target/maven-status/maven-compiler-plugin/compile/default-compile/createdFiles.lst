@@ -1,0 +1,9 @@
+datos/Conexion.class
+test/ManejoPersonas.class
+domain/Usuario.class
+datos/PersonaDao.class
+datos/PersonaDaoJDBC.class
+test/ManejoUsuarios.class
+datos/UsuarioJDBC.class
+domain/PersonaDTO.class
+.netbeans_automatic_build
